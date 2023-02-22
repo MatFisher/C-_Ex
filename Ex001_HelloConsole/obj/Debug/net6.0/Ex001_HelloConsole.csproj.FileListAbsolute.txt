@@ -1,0 +1,15 @@
+C:\C#\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.exe
+C:\C#\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.deps.json
+C:\C#\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.runtimeconfig.json
+C:\C#\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.dll
+C:\C#\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.AssemblyReference.cache
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfoInputs.cache
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfo.cs
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.dll
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\refint\Ex001_HelloConsole.dll
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.genruntimeconfig.cache
+C:\C#\Ex001_HelloConsole\obj\Debug\net6.0\ref\Ex001_HelloConsole.dll
