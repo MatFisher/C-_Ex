@@ -7,9 +7,8 @@ void Square(int num)
     int result = 0;
     while(index <= num)
     {
-        Console.Write($"{index} = ");
         result = index*index;
-        Console.WriteLine(result);
+        Console.WriteLine($"{index, 5}  {result, 5}");
         index++;
     }
 }
