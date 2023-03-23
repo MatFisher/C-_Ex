@@ -2,12 +2,12 @@
 {
     return firstNumber % secondNumber;
 }
-void PrintMod(int remai)
+void PrintMod(int remain)
 {
-    if (remai == 0)
+    if (remain == 0)
         Console.WriteLine("Число кратно");
     else
-        Console.WriteLine($"Не кратно, остаток {remai}");
+        Console.WriteLine($"Не кратно, остаток {remain}");
 }
 Console.WriteLine("Введите первое число");
 int number1 = Convert.ToInt32(Console.ReadLine());
